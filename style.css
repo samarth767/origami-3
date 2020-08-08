@@ -1,0 +1,27 @@
+body{
+    background-color: #FF0000;
+}
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;   
+}
+.header{
+    display:flex;
+    justify-content:space-between;
+    background-color: #00FF00;
+    border:5px solid ;  
+    border-radius: 20px;
+}
+.menu{
+    background-color: #0000FF;
+    border:5px solid ;  
+    border-radius: 20px;
+}
+.item{
+    border:5px #64D1F9;
+    border-width: 5px;
+    border-style: solid;
+    text-decoration-color: #F4260F;
+    font-display: red;
+}
